@@ -1,0 +1,1 @@
+Flutter app that gets the info like cast list and actor roles using The MovieDb API.
